@@ -1,3 +1,4 @@
+# Forked for personal reference and to look at debian 12 later on
 # zammad_installer
 This little script aims to simplify and to automate as much as possible the whole Zammad installation process as described here:
 * https://docs.zammad.org/en/latest/install/centos.html
